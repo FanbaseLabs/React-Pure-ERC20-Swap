@@ -17,7 +17,7 @@ View the documentation here: [https://fanbase-io.gitbook.io/docs/reference/swap-
 ![PM-3](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/58fb1d00-438f-494d-9c18-53dbc6549c1d) 
 
 
-
+<img src="[https://github.com/FanbaseLabs/.github/blob/main/profile/resource/logo.png](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/58fb1d00-438f-494d-9c18-53dbc6549c1d)?raw=true" alt="fanbase" width="300" align="right">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
